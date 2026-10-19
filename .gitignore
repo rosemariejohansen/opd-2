@@ -109,4 +109,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 #Platformer dir
-/PlatformerDemo/
+Assets/IndieMarc/PlatformerDemo/
+Assets/IndieMarc/PlatformerDemo.meta
