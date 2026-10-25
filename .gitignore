@@ -111,3 +111,6 @@ InitTestScene*.unity*
 #Platformer dir
 Assets/IndieMarc/PlatformerDemo/
 Assets/IndieMarc/PlatformerDemo.meta
+# Unity crash recovery scenes
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
